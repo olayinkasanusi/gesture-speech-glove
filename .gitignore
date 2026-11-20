@@ -1,0 +1,22 @@
+﻿# MATLAB & Simulink build/autosave artifacts
+slprj/
+*.slxc
+*.autosave
+*.slx.r20*
+*.mex*
+*.asv
+*.m~
+
+# KiCad backup & lock files
+*-backups/
+*.lck
+*.bak
+*.bck
+
+# PlatformIO / ESP-IDF build artifacts
+.pio/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
